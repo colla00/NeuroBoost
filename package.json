@@ -1,0 +1,17 @@
+{
+  "name": "neuroboost",
+  "version": "1.0.0",
+  "description": "An interactive platform for cognitive enhancement.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "license": "MIT"
+}
